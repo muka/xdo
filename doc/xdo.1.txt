@@ -150,6 +150,12 @@ Send fake key press/release events with keycode 24 to the focused window:
 xdo key -k 24
 ----
 
+---
+Build from source
+---
+
+`sudo apt-get install libxcb1-dev libxcb-xtest0-dev libxcb-ewmh-dev libxcb-icccm4-dev`
+
 ////
 vim: set ft=asciidoc:
 ////
